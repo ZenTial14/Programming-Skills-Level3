@@ -67,7 +67,6 @@ def check_membership():
                 input('Press any key to continue ')
                 return True
             else:
-                input('Press any key to continue ')
                 return False
 
 
